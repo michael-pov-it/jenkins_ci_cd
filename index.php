@@ -1,8 +1,11 @@
 <?php
 
-Echo "Test CI/CD with Jenkins.\n";
-Echo "New pipeline #2 has created by Mike.\n";
-Echo "Autodeploy has tested\n";
-Echo "All rights reserved. 2020.";
+date_default_timezone_set('Europe/Kiev');
+
+Echo "Now in Ukraine: ";
+Echo date("l jS \of F Y h:i:s A\n");
+Echo "Site works with Jenkins autodeploy.\n";
+Echo "Copyright by Mike Gordievsky.\n";
+Echo "All rights reserved. 2020.\n";
 
 ?>
