@@ -6,6 +6,6 @@ Echo "Now in Ukraine: ";
 Echo date("l jS \of F Y h:i:s A\n");
 Echo "Site works with Jenkins autodeploy.\n";
 Echo "Copyright by Mike Gordievsky.\n";
-Echo "All rights reserved. 2020.\n";
+Echo "All rights reserved. Feb. 2020.\n";
 
 ?>
