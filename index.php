@@ -23,7 +23,7 @@ $education = [
 
 // Output layout
 // 1. Name & Position
-echo "<body><div class='wrapper' style='padding: 5%'>";
+echo "<body><div class='wrapper' style='padding: 20px 5%'>";
 echo "<h1>$name</h1>";
 echo "<h2>$position</h2>";
 
@@ -57,12 +57,14 @@ echo "</div>";
 // Set Kiev timezone
 date_default_timezone_set('Europe/Kiev');
 // Show current time in Kiev
-Echo "<footer style='padding-left: 5%'>";
+Echo "<footer style='padding: 0 5%'>";
 Echo "<br/>******************<br/>";
 Echo "Now in Ukraine: ";
 Echo date("l jS \of F Y h:i:s A\n");
-
+include_once('build.php');
 // End of loyaut
 echo "</footer></body>";
+
+
 
 ?>
