@@ -2,10 +2,11 @@
 
 // Add arrays for CV
 $name = "Mike Gordievsky";
-$position = "DevOps";
+$position = "DevOps | PM";
 $contacts = [
     "Place:" => "Ukraine, Odessa, 65012",
     "Email:" => "mike.gordievsky@gmail.com",
+    "Lnkdn:" => "LinkedIn: <a href='https://www.linkedin.com/in/gordievsky/'>Gordievsky</a>",
 ];
 $technologies = [
     "AWS", "Docker", "Jenkins",
@@ -15,32 +16,30 @@ $experience_summary = [
     "Work in IT-Companies and freelance  since 2006",
     "DevOps, Linux user  and freelancer since 2011"
 ];
+
 // Output layout
+// 1. Name & Position
 echo "<body style='padding: 5%'>";
 echo "<h1>$name</h1>";
 echo "<h2>$position</h2>";
 
-// Output contacts
+// 2. Contacts
 echo "<h3>Contacts</h3>\n";
 foreach($contacts as $contact) {
     echo "$contact<br/>";
 }
 
-// Output technologies
+// 3. Technologies
 echo "<h3>Technologies</h3>\n";
 echo join(", ", $technologies);
 
-// Output experience
+// 4. Experience
 echo "<h3>Experience</h3>\n";
 echo "<ul>";
 foreach($experience_summary as $es) {
     echo "<li>$es</li>\n";
 }
 echo "</ul>";
-
-#Echo "Site works with Jenkins autodeploy.\n";
-#Echo "Copyright by Mike Gordievsky.\n";
-#Echo "All rights reserved. February. 2020.\n";
 
 // Set Kiev timezone
 date_default_timezone_set('Europe/Kiev');
