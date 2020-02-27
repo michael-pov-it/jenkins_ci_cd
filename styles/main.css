@@ -8,8 +8,19 @@ ul, li {
     padding: 0;
     list-style: none;
 }
-h1, h2, h3 {
+h1, h2, h3, h4 {
     margin-bottom: 5px;
+}
+.wrapper b {
+    display: inline-block;
+    width: 120px;
+}
+h3.exp i {
+    font-size: 75%;
+}
+.date {
+    font-size: 14px;
+    font-style: italic;
 }
 footer {
     padding-top: 20px;
