@@ -1,7 +1,7 @@
 <?php
 
 // 1. Name & Position
-echo "<body><div class='wrapper'>";
+echo "<body><div class='container wrapper'>";
 echo "<h1>$name</h1>";
 echo "<h2>$position</h2>";
 
@@ -31,20 +31,5 @@ foreach($education as $ed) {
 }
 echo "</ul>";
 echo "</div>";
-
-// Set Kiev timezone
-date_default_timezone_set('Europe/Kiev');
-
-// Show current time in Kiev
-Echo "<footer>";
-Echo "******************<br/><div class='now'>";
-Echo "Now in Ukraine: ";
-Echo date("l jS \of F Y h:i:s A\n");
-Echo "</div><div class='build_info'>";
-include_once('build.php');
-Echo "</div>";
-
-// End of loyaut
-echo "</footer></body>";
 
 ?>
