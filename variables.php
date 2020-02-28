@@ -1,5 +1,8 @@
 <?php
 
+// Layout variables
+$row = "<div class='row'>";
+
 // Add variables to CV
 $name = "Mike Gordievsky";
 $position = "DevOps | PM";

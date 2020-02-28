@@ -15,6 +15,10 @@ h1, h2, h3, h4 {
     display: inline-block;
     width: 120px;
 }
+.header {
+    background-color: #f00;
+    margin-bottom: 40px;
+}
 h3.exp i {
     font-size: 75%;
 }
@@ -23,5 +27,7 @@ h3.exp i {
     font-style: italic;
 }
 footer {
-    padding-top: 20px;
+    padding: 20px 0;
+    margin-top: 50px;
+    background-color: #f00;
 }
