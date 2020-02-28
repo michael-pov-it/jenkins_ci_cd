@@ -38,7 +38,10 @@ $experience = [
         "Technologies" => "CMS (Opencart, WP, Joomla, Drupal, Magento, Typo3), PHP/MySQL, JS/HTML/CSS",
         "Responsibilities:" => "making a compatible, cross-platform and user-friendly solutions; conducting many technical interviews, hiring and successfully working with developers"
     ],
-    "Mykolaiv Academy LLC / COO, Event Manager, Public speaker" => [],
+    "Mykolaiv Academy LLC / COO, Event Manager, Public speaker" => [
+        "Date" => "June 2017 - February 2019",
+        "Responsibilities:" => "Hiring trainers for courses. Marketing  strategy. More than 200 happy students. Coach in Front-End group."
+    ],
     "Kiberland GameDev Studio / FE Developer & PM" => [
         "Date" => "April 2013 - December 2014, Remotely",
         "Projects:" => "HTML, CSS, Knockout.JS",
