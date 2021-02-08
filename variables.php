@@ -21,6 +21,10 @@ $experience_summary = [
     "DevOps, Linux user  and freelancer since 2011"
 ];
 $experience = [
+    "AVyS Telecom / MVNO Engineer | DevOps" => [
+        "Date" => "November 2019 - February 2020, Odessa",
+        "Responsibilities:" => "Maintenance european mobile-operator. Assistance with support. Monitoring."
+    ],
     "Imonomy Interactive LTD / DevOps" => [
         "Date" => "November 2019 - February 2020, Odessa",
         "Responsibilities:" => "Configuring the RTB-servers up; Bash scripts; Crontab; Docker; Jenkins; Replications; Agents; Web-servers, MySQL; Wordpress."
