@@ -11,7 +11,7 @@ echo "<div class='container wrapper'>";
 echo "<div class='row header'>";
 echo "<h1 class='col-xl-12'>$name</h1>";
 echo "<h2 class='col-xl-12'>$position</h2></div>";
-echo "<div class='dark_mode'><a href='#'>Dark Mode</a></div>"
+echo "<div class='dark_mode'><a href='#'>Dark Mode</a></div>";
 
 // 2. Contacts
 foreach($contacts as $k => $v) {
