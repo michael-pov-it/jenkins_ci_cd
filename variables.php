@@ -9,7 +9,7 @@ $position = "DevOps | TechLead";
 $contacts = [
     "Location:" => "Ukraine, Odessa, 65012",
     "Email:" => "<a href='mailto: mike.gordievsky@gmail.com'>mike.gordievsky@gmail.com</a>",
-    "Skype:" => "<a href="skype:live:.cid.3d4de0dbb497155a?chat">Start Chat</a>",
+    "Skype:" => "<a href='skype:live:.cid.3d4de0dbb497155a?chat'>Start Chat</a>",
     "Telegram:" => "<a href='https://t.me/Mikhail_or_Mike'>@Mikhail_or_Mike</a>",
 ];
 $technologies = [
