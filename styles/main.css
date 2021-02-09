@@ -10,6 +10,9 @@ body.dark {
     background-color: #000;
     color: #fff;
 }
+body.dark .date {
+    color: #ccc;
+}
 .dark_mode {
     position: absolute;
     right: 15px;
@@ -19,6 +22,9 @@ ul, li {
     margin: 0;
     padding: 0;
     list-style: none;
+}
+ul.cert > li {
+    list-style: inside;
 }
 h1, h2, h3, h4 {
     margin-bottom: 5px;
@@ -45,7 +51,6 @@ h3.exp i {
 .date {
     font-size: 16px;
     font-style: italic;
-    color: #ccc;
     padding-bottom: 5px;
 }
 footer {

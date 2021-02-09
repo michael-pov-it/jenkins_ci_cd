@@ -51,7 +51,7 @@ echo "</ul></div>";
 
 // 6. Education and additional information
 echo "<h3>Education and certificates</h3>\n";
-echo "<ul>";
+echo "<ul class='cert'>";
 foreach($education as $ed) {
     echo "<li>$ed</li>\n";
 }
