@@ -1,5 +1,11 @@
-<html><body><div class='container wrapper'>
+<html>
+
 <?php
+
+echo "<body class='${dark}'>";
+
+// 0. Container
+echo "<div class='container wrapper'>";
 
 // 1. Name & Position
 echo "<div class='row header'>";
