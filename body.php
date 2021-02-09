@@ -1,6 +1,6 @@
 <html>
 
-<body class=<?php $dark ? 'dark' : '' ?>>
+<body class="<?php if($dark) echo 'dark'; else echo '' ?>">
 
 <?php
 
