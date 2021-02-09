@@ -1,8 +1,8 @@
 <html>
 
-<?php
+<body class=<?php $dark ? 'dark' : '' ?>>
 
-echo "<body class='${dark}'>";
+<?php
 
 // 0. Container
 echo "<div class='container wrapper'>";
