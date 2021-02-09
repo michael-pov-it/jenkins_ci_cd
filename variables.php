@@ -63,8 +63,8 @@ $experience = [
     "GeeksForLess  / HTML Coder" => [
         "Date" => "September 2006 - August 2007, Mykolaiv",
         "Responsibilities:" => "Working on company's projects with HTML&CSS. All projects’ information protected by NDA."
-    ],
-    /*"to be continued..." => ["in progress"]*/
+    ],*/
+    "to be continued..." => ["in progress"]
 ];
 $education = [
     "Bachelor Degree in Computer Engineering (IT Specialist)",
