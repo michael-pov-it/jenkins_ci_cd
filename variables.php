@@ -2,7 +2,7 @@
 
 // Layout variables
 $row = "<div class='row'>";
-$dark = true;
+$dark = false;
 
 // Add variables to CV
 $name = "Mike Gordievsky";
