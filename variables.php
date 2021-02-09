@@ -5,20 +5,24 @@ $row = "<div class='row'>";
 
 // Add variables to CV
 $name = "Mike Gordievsky";
-$position = "DevOps | PM";
+$position = "DevOps | TechLead";
 $contacts = [
     "Location:" => "Ukraine, Odessa, 65012",
     "Email:" => "<a href='mailto: mike.gordievsky@gmail.com'>mike.gordievsky@gmail.com</a>",
-    "LinkedIn:" => "<a href='https://www.linkedin.com/in/gordievsky/'>Gordievsky</a>",
+    "Skype:" => "mike.gordievsky@gmail.com",
+    "Telegram:" => "<a href='https://t.me/Mikhail_or_Mike'>@Mikhail_or_Mike</a>",
 ];
 $technologies = [
-    "Main:" => "AWS, Docker, Jenkins, REST API, JS/HTML/CSS, NPM",
-    "Addditional:" => "PHP/MySQL, NodeJS/VueJS/ReactJS/AngularJS, Zabbix"
+    "Expert:" => "Zabbix, Linux, Networks, VCS",
+    "Middle level" => "AWS, Terraform, MySQL DBs, Grafana, NoSQL DBs (Redis, Mongo)",
+    "Practiced a bit" => "GCP, Ansible, Jenkins",
+    "Also:" => "HTML/CSS/JS, MVC pattern, PHP, NodeJS/VueJS/ReactJS/AngularJS"
 ];
 $experience_summary = [
-    "System Administrator (Windows + Hardware)  since  2003",
-    "Work in IT-Companies and freelance  since 2006",
-    "DevOps, Linux user  and freelancer since 2011"
+    "System Administrator (Windows + Hardware) since 2003",
+    "Work in IT-Companies since 2006",
+    "Linux user and freelancer since 2011",
+    "Working in DevOps position since 2019"
 ];
 $experience = [
     "AVyS Telecom / MVNO Engineer | DevOps" => [
@@ -60,7 +64,7 @@ $experience = [
         "Date" => "September 2006 - August 2007, Mykolaiv",
         "Responsibilities" => "Working on company's projects with HTML&CSS. All projects’ information protected by NDA."
     ],
-    "to be continued..." => ["in progress"]
+    /*"to be continued..." => ["in progress"]*/
 ];
 $education = [
     "Bachelor Degree in Computer Engineering (IT Specialist)",
