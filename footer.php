@@ -17,11 +17,16 @@ include_once('build.php');
     
     var expand = $('.accordion > ul.col');
     var exp = $('h3.exp');
+    var dark = $('.dark_mode a');
 
     expand.hide();
     exp.click(function() {
       expand.show();
     });
+
+    dark.click(function() {
+      $('body').addClass('dark');
+    })
   
   })(jQuery);
 </script>
