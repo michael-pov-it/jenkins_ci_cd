@@ -10,6 +10,9 @@ body.dark {
     background-color: #000;
     color: #fff;
 }
+.dark_mode {
+    float: right;
+}
 ul, li {
     margin: 0;
     padding: 0;
