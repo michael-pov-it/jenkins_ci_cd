@@ -3,7 +3,7 @@
 // Layout variables
 $row = "<div class='row'>";
 $dark = false;
-$dark_mode = "<div class='dark_mode'><a href='#'>Dark Mode</a></div>";
+$dark_mode = "<span class='dark_mode'><a href='#'>Dark Mode</a></span>";
 
 // Add variables to CV
 $name = "Mike Gordievsky";
