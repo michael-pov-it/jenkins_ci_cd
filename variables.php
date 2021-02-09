@@ -13,10 +13,10 @@ $contacts = [
     "Telegram:" => "<a href='https://t.me/Mikhail_or_Mike'>@Mikhail_or_Mike</a>",
 ];
 $technologies = [
-    "Expert:" => "Zabbix, Linux, Networks, VCS",
-    "Middle level" => "AWS, Terraform, MySQL DBs, Grafana, NoSQL DBs (Redis, Mongo)",
-    "Practiced a bit" => "GCP, Ansible, Jenkins",
-    "Also:" => "HTML/CSS/JS, MVC pattern, PHP, NodeJS/VueJS/ReactJS/AngularJS"
+    "Expert:" => "Zabbix, Linux (Debian, RHEL, Arch), Networks, VCS (Git, SVN)",
+    "Middle level" => "AWS (EC2, Lightsail, ALB, EFS, S3, Route53, IAM, SES|SWS|SQS), MySQL DBs, NoSQL DBs (Redis, Mongo), Jira|Confluence, bash",
+    "Junior level" => "AWS (Beanstalk, VPC, Cloud Front, RDS, DynamoDB), GCP, Terraform, Ansible, Jenkins, Docker, K8s",
+    "Also:" => "Grafana, HTML/CSS/JS, MVC pattern, PHP, NodeJS/VueJS/ReactJS/AngularJS"
 ];
 $experience_summary = [
     "System Administrator (Windows + Hardware) since 2003",
@@ -36,7 +36,8 @@ $experience = [
 ];
 $education = [
     "Bachelor Degree in Computer Engineering (IT Specialist)",
-    "English B2-level (Upper-intermediate). ESE school, Malta."
+    "English B2-level (Upper-intermediate). ESE school in Malta 2019.",
+    "CCNA in progress"
 ];
 
 ?>
