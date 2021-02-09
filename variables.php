@@ -32,7 +32,7 @@ $experience = [
     "Imonomy Interactive LTD / DevOps" => [
         "Date" => "November 2019 - February 2020, Odessa",
         "Responsibilities:" => "Configuring the RTB-servers up; Bash scripts; Crontab; Docker; Replications; Agents; Web-servers (Apache&NGINX), MySQL; Wordpress, AWS"
-    ],
+    ]
     /*"482.Solutions / PM, Web-consultant" => [
         "Date" => "July 2019 - October 2019, Odessa",
         "Responsibilities:" => "Work under R&D and in-house projects of the company. Team managment, requirements collecting and analysing, solutions delivering."
@@ -63,8 +63,8 @@ $experience = [
     "GeeksForLess  / HTML Coder" => [
         "Date" => "September 2006 - August 2007, Mykolaiv",
         "Responsibilities:" => "Working on company's projects with HTML&CSS. All projects’ information protected by NDA."
-    ],*/
-    "to be continued..." => ["in progress"]
+    //],
+    "to be continued..." => ["in progress"]*/
 ];
 $education = [
     "Bachelor Degree in Computer Engineering (IT Specialist)",
