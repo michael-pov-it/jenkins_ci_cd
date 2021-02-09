@@ -24,8 +24,9 @@ include_once('build.php');
       expand.show();
     });
 
-    dark.click(function() {
-      $('body').addClass('dark');
+    dark.click(function(e) {
+      e.preventDefault();
+      $('body').toggleClass('dark');
     })
   
   })(jQuery);
