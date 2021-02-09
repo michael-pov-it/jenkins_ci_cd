@@ -11,7 +11,9 @@ body.dark {
     color: #fff;
 }
 .dark_mode {
-    float: right;
+    position: absolute;
+    right: 15px;
+    top: 5px;
 }
 ul, li {
     margin: 0;
@@ -35,6 +37,7 @@ h2 {
 .header {
     background-color: #f00;
     margin-bottom: 40px;
+    position: relative;
 }
 h3.exp i {
     font-size: 75%;
