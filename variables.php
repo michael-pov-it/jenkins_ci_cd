@@ -22,8 +22,8 @@ $experience_summary = [
 ];
 $experience = [
     "AVyS Telecom / MVNO Engineer | DevOps" => [
-        "Date" => "November 2019 - February 2020, Odessa",
-        "Responsibilities:" => "Maintenance european mobile-operator. Assistance with support. Monitoring."
+        "Date" => "March 2020 - Present time, Remote",
+        "Responsibilities:" => "Maintenance european mobile-operator. Assistance with support. Monitoring. Databases"
     ],
     "Imonomy Interactive LTD / DevOps" => [
         "Date" => "November 2019 - February 2020, Odessa",
