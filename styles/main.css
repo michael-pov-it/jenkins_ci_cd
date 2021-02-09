@@ -1,7 +1,8 @@
 html, body {
     margin: 0;
     padding: 0;
-    font-size: 1.5em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.2em;
     background-color: #000;
     color: #fff;
 }
@@ -22,7 +23,7 @@ h2 {
 }
 .wrapper b {
     display: inline-block;
-    width: 150px;
+    width: 200px;
 }
 .header {
     background-color: #f00;
@@ -32,8 +33,10 @@ h3.exp i {
     font-size: 75%;
 }
 .date {
-    font-size: 14px;
+    font-size: 16px;
     font-style: italic;
+    color: #ccc;
+    padding-bottom: 5px;
 }
 footer {
     padding: 20px 0;
