@@ -37,8 +37,6 @@ $experience = [
         "Date" => "November 2019 - Present",
         "Responsibilities" => "Assistance to the Director in organizing of company's events"
     ],
-    "to be continued..." => ["in progress"]
-    /*
     "Freelance / Web-developer" => [
         "Date" => "December 2010 - Present, Remotely",
         "Technologies" => "CMS (Opencart, WP, Joomla, Drupal, Magento, Typo3), PHP/MySQL, JS/HTML/CSS",
@@ -61,7 +59,8 @@ $experience = [
     "GeeksForLess  / HTML Coder" => [
         "Date" => "September 2006 - August 2007, Mykolaiv",
         "Responsibilities" => "Working on company's projects with HTML&CSS. All projects’ information protected by NDA."
-    ],*/
+    ],
+    "to be continued..." => ["in progress"]
 ];
 $education = [
     "Bachelor Degree in Computer Engineering (IT Specialist)",
