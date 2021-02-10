@@ -1,3 +1,2 @@
-# jenkins_ci_cd
-testing continious integration and deployment
-HTML+CSS + PHP v7.3
+# HTTP://Web-Dev-Studio.com web-site
+HTML+CSS + Linux+Apache+MySQL+PHP v7.3
