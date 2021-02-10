@@ -1,9 +1,9 @@
 <?php
 
 // Includes
-include 'variables.php';
-include 'header.php';
-include 'body.php';
-include 'footer.php';
+include './src/variables.php';
+include './src/header.php';
+include './src/body.php';
+include './src/footer.php';
 
 ?>
